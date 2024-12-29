@@ -66,9 +66,10 @@ Welcome to **AI Travel Genie** – your ultimate AI-assisted trip planning compa
 
 ### Screenshots:
 
-(1.png)
-(2.png)
-(3.png)
+![Home Page](1.png)
+![Generation ](2.png)
+![Suggestions](3.png)
+
 
 ---
 
