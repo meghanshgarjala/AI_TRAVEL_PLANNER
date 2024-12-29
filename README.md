@@ -36,11 +36,11 @@ Welcome to **AI Travel Genie** – your ultimate AI-assisted trip planning compa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ai-travel-genie.git
+   git clone https://github.com/meghanshgarjala/AI_TRAVEL_PLANNER.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ai-travel-genie
+   cd AI_TRAVEL_PLANNER
    ```
 3. Install required dependencies:
    ```bash
@@ -66,9 +66,9 @@ Welcome to **AI Travel Genie** – your ultimate AI-assisted trip planning compa
 
 ### Screenshots:
 
-[](1.png)
-[](2.png)
-[](3.png)
+(1.png)
+(2.png)
+(3.png)
 
 ---
 
